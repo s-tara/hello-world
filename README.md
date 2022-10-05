@@ -10,3 +10,5 @@ It now includes steps for Github
 Also coverts advanced topics like revert, reset and amend
 
 It now includes steps for Github, branching demos.
+
+For more features, learn about markdown language
