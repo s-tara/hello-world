@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for Github
 
 Also coverts advanced topics like revert, reset and amend
+
+It now includes steps for Github, branching demos.
